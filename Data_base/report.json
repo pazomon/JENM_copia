@@ -1,0 +1,22 @@
+[
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+	"subject":"Calculo I",
+	"name": "prueba parcial"
+	"date": "22-10-2022",
+	"mark": 5.0,
+    "call": 0,
+    "acumulate": 5.0, 
+    "acumalete_percentaje": 20
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+	"subject":"Calculo I",
+	"name": "prueba parcial"
+	"date": "22-10-2022",
+	"mark": 5.0,
+    "call": 0,
+    "acumulate": 5.0, 
+    "acumalete_percentaje": 20
+  }
+]

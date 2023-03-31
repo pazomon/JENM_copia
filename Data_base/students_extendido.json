@@ -1,0 +1,2962 @@
+[
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1000,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Pepe",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 2,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 3,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 4,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 7,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 8,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 5,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 6,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 20,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Pepe",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 2,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 3,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 4,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 20,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Pepe",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 2,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 3,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 4,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 20,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Pepe",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 2,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 3,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 4,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 1,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  },
+  {"complete_name": "Perico",
+    "dni": "333444555H",
+    "genere": "masc",
+    "born_date": "22-01-2990",
+    "number_curriculo":"6055-45368-11",
+    "titulation": "ST",
+    "access": "AD",
+    "corp": "CGA",
+    "course_yellow": "1 CGA-ST",
+    "number_cy": 1,
+    "course": 1,
+    "brigade":1,
+    "group":1,
+    "student_number": 20,
+    "actual_year": 1,
+    "state": "repite,egresa",
+    "plan_matricula":[
+      {"subject":"Calculo I",
+        "call": "0,1,convalidado,aprobado",
+        "acumulate": 5.0,
+        "acumalete_percentaje": 20,
+        "evaluation": [
+          {"mark": 5.0,
+            "date": "22-10-2022",
+            "advance": 2,
+            "weight": 1.5
+          },
+          {"mark": 6.0,
+            "date": "23-10-2022",
+            "advance": 1.8,
+            "weight": 1.3
+          }
+        ]
+      }
+    ],
+    "i+a":"To Do"
+  }
+]

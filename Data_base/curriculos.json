@@ -1,0 +1,83 @@
+[
+    {
+        "desigantion": "curriculo para la formacion de oficiales ...",
+        "number_designation": "6055-45368-11",
+        "state": "activado",
+        "titulation": "ST",
+        "access": "AD",
+        "corp": "CGA",
+        "approved_date": 2022,
+        "orden_DEF": "DEF/288/2016",
+        "total_ects": 340,
+        "number_courses": 5,
+        "courses": [
+            {
+                "course": 1,
+                "designation_course": "1\u00c2\u00ba CGA-ST",
+                "yellow_number_desigantion": 1,
+                "name_course": 60554,
+                "ects": 68,
+                "ects2leave": 20.4,
+                "ects2progress": 40.8,
+                "plan": [
+                    {
+                        "subject": "Calculo I",
+                        "ects_s": 6,
+                        "perodicidad": "Anual",
+                        "module": "Formacion miliar especifica",
+                        "materia": "Fundamentos Cintifico-Tecnicos",
+                        "departament": "CUD"
+                    },
+                    {
+                        "subject": "Formacion Militar I",
+                        "ects_s": 2,
+                        "perodicidad": "Cuatrimestral",
+                        "module": "Formacion miliar general",
+                        "area": "Formacion Militar",
+                        "departament": "INSADI"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "desigantion": "curriculo para la formacion de oficiales ...",
+        "number_designation": "6055-45368-12",
+        "state": "desactivado",
+        "titulation": "ST",
+        "access": "AD",
+        "corp": "CIM",
+        "approved_year": 2022,
+        "total_ects": 340,
+        "number_courses": 5,
+        "courses": [
+            {
+                "course": 2,
+                "designation_course": "1\u00c2\u00ba CGA-ST",
+                "yellow_number_desigantion": 2,
+                "name_course": 60554,
+                "ects": 68,
+                "ects2leave": 20.4,
+                "ects2progress": 40.8,
+                "plan": [
+                    {
+                        "subject": "Calculo II",
+                        "ects_s": 6,
+                        "perodicidad": "Anual",
+                        "module": "Formacion miliar especifica",
+                        "area": "Fundamentos Cintifico-Tecnicos",
+                        "departament": "CUD"
+                    },
+                    {
+                        "subject": "Formacion Militar II",
+                        "ects_s": 2,
+                        "perodicidad": "Cuatrimestral",
+                        "module": "Formacion miliar general",
+                        "area": "Formacion Militar",
+                        "departament": "INSADI"
+                    }
+                ]
+            }
+        ]
+    }
+]

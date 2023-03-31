@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "psswd": "a",
+  "permissions": [
+    "all","mates", "motores"
+  ]
+}

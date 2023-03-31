@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bf0d80e-eeb4-4691-a635-ddbaffd3cef7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EPZG0WC4KcXKOYhBcGIkXlfSwj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pazom/Desktop/JENM&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pazom\Desktop\JENM" />
+      <recent name="C:\Users\pazom\Desktop\JENM\Data_base" />
+      <recent name="C:\Users\pazom\Desktop\JENM\Wanted_functions" />
+      <recent name="C:\Users\pazom\Desktop\JENM\Displays" />
+      <recent name="C:\Users\pazom\Desktop\JENM\dist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pazom\Desktop\JENM\TRASH" />
+      <recent name="C:\Users\pazom\Desktop\JENM\Settings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.jenma">
+    <configuration name="curriculums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JENM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/curriculums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jenma" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JENM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jenma.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prueba (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JENM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prueba" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Sabana" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pazom\Desktop\JENM\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pazom\Desktop\JENM\TRASH\prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks_superuser (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JENM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks_superuser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks_superuser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JENM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Displays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Displays/tasks_superuser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.prueba" />
+      <item itemvalue="Python.curriculums" />
+      <item itemvalue="Python.prueba (1)" />
+      <item itemvalue="Python.tasks_superuser" />
+      <item itemvalue="Python.tasks_superuser (1)" />
+      <item itemvalue="Python.jenma" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jenma" />
+        <item itemvalue="Python.curriculums" />
+        <item itemvalue="Python.prueba (1)" />
+        <item itemvalue="Python.tasks_superuser" />
+        <item itemvalue="Python.tasks_superuser (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf0d80e-eeb4-4691-a635-ddbaffd3cef7" name="Changes" comment="" />
+      <created>1662499079948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662499079948</updated>
+      <workItem from="1662499085067" duration="2212000" />
+      <workItem from="1662675558544" duration="1538000" />
+      <workItem from="1662677167834" duration="627000" />
+      <workItem from="1662677875040" duration="673000" />
+      <workItem from="1663079695259" duration="5266000" />
+      <workItem from="1663177573946" duration="12622000" />
+      <workItem from="1663230102038" duration="1070000" />
+      <workItem from="1663348972640" duration="18330000" />
+      <workItem from="1663447120261" duration="8482000" />
+      <workItem from="1663455955257" duration="1381000" />
+      <workItem from="1663488900868" duration="1162000" />
+      <workItem from="1663490084216" duration="1019000" />
+      <workItem from="1663509627293" duration="1631000" />
+      <workItem from="1663511287322" duration="9660000" />
+      <workItem from="1663530659214" duration="772000" />
+      <workItem from="1663531461861" duration="357000" />
+      <workItem from="1663531864088" duration="1162000" />
+      <workItem from="1663533190191" duration="9984000" />
+      <workItem from="1663578355799" duration="6051000" />
+      <workItem from="1663594970472" duration="6319000" />
+      <workItem from="1663607356536" duration="485000" />
+      <workItem from="1663653213021" duration="4436000" />
+      <workItem from="1663690168017" duration="3947000" />
+      <workItem from="1663706320990" duration="3602000" />
+      <workItem from="1663739266442" duration="1417000" />
+      <workItem from="1663748395862" duration="7425000" />
+      <workItem from="1663862834478" duration="2539000" />
+      <workItem from="1664090775270" duration="1562000" />
+      <workItem from="1664113616289" duration="4066000" />
+      <workItem from="1664484917321" duration="1502000" />
+      <workItem from="1664871783795" duration="234000" />
+      <workItem from="1664897350034" duration="2520000" />
+      <workItem from="1664915664680" duration="3782000" />
+      <workItem from="1664989158122" duration="2733000" />
+      <workItem from="1664993951896" duration="3160000" />
+      <workItem from="1664998547758" duration="3198000" />
+      <workItem from="1665067566121" duration="10002000" />
+      <workItem from="1665084573465" duration="10704000" />
+      <workItem from="1665095849687" duration="325000" />
+      <workItem from="1665096198523" duration="2754000" />
+      <workItem from="1665309972230" duration="3787000" />
+      <workItem from="1665677016095" duration="1494000" />
+      <workItem from="1665940287277" duration="395000" />
+      <workItem from="1665940730841" duration="8521000" />
+      <workItem from="1665953794797" duration="5794000" />
+      <workItem from="1667823876567" duration="2247000" />
+      <workItem from="1669131681852" duration="794000" />
+      <workItem from="1669310921971" duration="2932000" />
+      <workItem from="1669633513461" duration="12039000" />
+      <workItem from="1669706416441" duration="17461000" />
+      <workItem from="1669743811487" duration="2015000" />
+      <workItem from="1671094598423" duration="1887000" />
+      <workItem from="1671096502454" duration="12000" />
+      <workItem from="1671096523813" duration="714000" />
+      <workItem from="1671097356681" duration="332000" />
+      <workItem from="1671097705695" duration="7714000" />
+      <workItem from="1671176864682" duration="151000" />
+      <workItem from="1671177105424" duration="11928000" />
+      <workItem from="1671378374412" duration="1773000" />
+      <workItem from="1671436759964" duration="14866000" />
+      <workItem from="1671456986485" duration="1085000" />
+      <workItem from="1671462871386" duration="5396000" />
+      <workItem from="1671522755328" duration="12405000" />
+      <workItem from="1671548516527" duration="4291000" />
+      <workItem from="1671556889411" duration="639000" />
+      <workItem from="1671566090459" duration="1781000" />
+      <workItem from="1671609465486" duration="542000" />
+      <workItem from="1671611015206" duration="4429000" />
+      <workItem from="1671615558949" duration="4906000" />
+      <workItem from="1671622688372" duration="54000" />
+      <workItem from="1671636988974" duration="4787000" />
+      <workItem from="1671655111114" duration="6335000" />
+      <workItem from="1671694400246" duration="165000" />
+      <workItem from="1671698837520" duration="1321000" />
+      <workItem from="1672083173156" duration="2801000" />
+      <workItem from="1672223131810" duration="11487000" />
+      <workItem from="1672302158942" duration="1204000" />
+      <workItem from="1672566292077" duration="748000" />
+      <workItem from="1672731010280" duration="2627000" />
+      <workItem from="1672774573482" duration="3071000" />
+      <workItem from="1672815951395" duration="1208000" />
+      <workItem from="1673281100785" duration="4029000" />
+      <workItem from="1673351546354" duration="1367000" />
+      <workItem from="1673423192823" duration="8670000" />
+      <workItem from="1673608647753" duration="1709000" />
+      <workItem from="1680254790989" duration="36000" />
+      <workItem from="1680254898318" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sabana$main.coverage" NAME="main Coverage Results" MODIFIED="1662676993903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$generar_aplicacion.coverage" NAME="generar_aplicacion Coverage Results" MODIFIED="1671100837552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$prueba__1_.coverage" NAME="prueba (1) Coverage Results" MODIFIED="1673284127662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$excel.coverage" NAME="excel Coverage Results" MODIFIED="1663657831741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$main.coverage" NAME="main Coverage Results" MODIFIED="1665678249451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$statistics.coverage" NAME="statistics Coverage Results" MODIFIED="1663450787433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$informes.coverage" NAME="informes Coverage Results" MODIFIED="1663542257535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$tasks_superuser__1_.coverage" NAME="tasks_superuser (1) Coverage Results" MODIFIED="1672237438239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sabana$aplicacion_portable.coverage" NAME="main Coverage Results" MODIFIED="1662676794316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$gordo_primitiva.coverage" NAME="gordo primitiva Coverage Results" MODIFIED="1665313120487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM___copia$jenma.coverage" NAME="jenma Coverage Results" MODIFIED="1680254792450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$JENM.coverage" NAME="JENM Coverage Results" MODIFIED="1662678155338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$curriculums.coverage" NAME="curriculums Coverage Results" MODIFIED="1673351563927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
+    <SUITE FILE_PATH="coverage/JENM$jenma.coverage" NAME="jenma Coverage Results" MODIFIED="1673610100949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sabana$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1662676787204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1665086098238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$prueba2.coverage" NAME="prueba2 Coverage Results" MODIFIED="1672232453551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sabana$generar_aplicacion.coverage" NAME="generar_aplicacion Coverage Results" MODIFIED="1662676752631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$graficos.coverage" NAME="graficos Coverage Results" MODIFIED="1663538553345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JENM$tasks_superuser.coverage" NAME="tasks_superuser Coverage Results" MODIFIED="1672302219294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Displays" />
+  </component>
+</project>
